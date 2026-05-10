@@ -1,0 +1,304 @@
+age_years,sex,chest_pain_type,resting_blood_pressure_mmHg,serum_cholesterol_mg_dL,fasting_blood_sugar_over_120_mg_dL,resting_ecg_result,max_heart_rate_bpm,exercise_induced_angina,st_depression_exercise_relative_to_rest,st_segment_slope_peak_exercise,num_major_vessels_fluoroscopy,thalassemia_test_result,disease_present
+63.0,male,typical angina,145.0,233.0,True,left ventricular hypertrophy (Estes),150.0,no,2.3,downsloping,0.0,fixed defect,no_disease
+67.0,male,asymptomatic,160.0,286.0,False,left ventricular hypertrophy (Estes),108.0,yes,1.5,flat,3.0,normal,disease_present
+67.0,male,asymptomatic,120.0,229.0,False,left ventricular hypertrophy (Estes),129.0,yes,2.6,flat,2.0,reversible defect,disease_present
+37.0,male,non-anginal pain,130.0,250.0,False,normal,187.0,no,3.5,downsloping,0.0,normal,no_disease
+41.0,female,atypical angina,130.0,204.0,False,left ventricular hypertrophy (Estes),172.0,no,1.4,upsloping,0.0,normal,no_disease
+56.0,male,atypical angina,120.0,236.0,False,normal,178.0,no,0.8,upsloping,0.0,normal,no_disease
+62.0,female,asymptomatic,140.0,268.0,False,left ventricular hypertrophy (Estes),160.0,no,3.6,downsloping,2.0,normal,disease_present
+57.0,female,asymptomatic,120.0,354.0,False,normal,163.0,yes,0.6,upsloping,0.0,normal,no_disease
+63.0,male,asymptomatic,130.0,254.0,False,left ventricular hypertrophy (Estes),147.0,no,1.4,flat,1.0,reversible defect,disease_present
+53.0,male,asymptomatic,140.0,203.0,True,left ventricular hypertrophy (Estes),155.0,yes,3.1,downsloping,0.0,reversible defect,disease_present
+57.0,male,asymptomatic,140.0,192.0,False,normal,148.0,no,0.4,flat,0.0,fixed defect,no_disease
+56.0,female,atypical angina,140.0,294.0,False,left ventricular hypertrophy (Estes),153.0,no,1.3,flat,0.0,normal,no_disease
+56.0,male,non-anginal pain,130.0,256.0,True,left ventricular hypertrophy (Estes),142.0,yes,0.6,flat,1.0,fixed defect,disease_present
+44.0,male,atypical angina,120.0,263.0,False,normal,173.0,no,0.0,upsloping,0.0,reversible defect,no_disease
+52.0,male,non-anginal pain,172.0,199.0,True,normal,162.0,no,0.5,upsloping,0.0,reversible defect,no_disease
+57.0,male,non-anginal pain,150.0,168.0,False,normal,174.0,no,1.6,upsloping,0.0,normal,no_disease
+48.0,male,atypical angina,110.0,229.0,False,normal,168.0,no,1.0,downsloping,0.0,reversible defect,disease_present
+54.0,male,asymptomatic,140.0,239.0,False,normal,160.0,no,1.2,upsloping,0.0,normal,no_disease
+48.0,female,non-anginal pain,130.0,275.0,False,normal,139.0,no,0.2,upsloping,0.0,normal,no_disease
+49.0,male,atypical angina,130.0,266.0,False,normal,171.0,no,0.6,upsloping,0.0,normal,no_disease
+64.0,male,typical angina,110.0,211.0,False,left ventricular hypertrophy (Estes),144.0,yes,1.8,flat,0.0,normal,no_disease
+58.0,female,typical angina,150.0,283.0,True,left ventricular hypertrophy (Estes),162.0,no,1.0,upsloping,0.0,normal,no_disease
+58.0,male,atypical angina,120.0,284.0,False,left ventricular hypertrophy (Estes),160.0,no,1.8,flat,0.0,normal,disease_present
+58.0,male,non-anginal pain,132.0,224.0,False,left ventricular hypertrophy (Estes),173.0,no,3.2,upsloping,2.0,reversible defect,disease_present
+60.0,male,asymptomatic,130.0,206.0,False,left ventricular hypertrophy (Estes),132.0,yes,2.4,flat,2.0,reversible defect,disease_present
+50.0,female,non-anginal pain,120.0,219.0,False,normal,158.0,no,1.6,flat,0.0,normal,no_disease
+58.0,female,non-anginal pain,120.0,340.0,False,normal,172.0,no,0.0,upsloping,0.0,normal,no_disease
+66.0,female,typical angina,150.0,226.0,False,normal,114.0,no,2.6,downsloping,0.0,normal,no_disease
+43.0,male,asymptomatic,150.0,247.0,False,normal,171.0,no,1.5,upsloping,0.0,normal,no_disease
+40.0,male,asymptomatic,110.0,167.0,False,left ventricular hypertrophy (Estes),114.0,yes,2.0,flat,0.0,reversible defect,disease_present
+69.0,female,typical angina,140.0,239.0,False,normal,151.0,no,1.8,upsloping,2.0,normal,no_disease
+60.0,male,asymptomatic,117.0,230.0,True,normal,160.0,yes,1.4,upsloping,2.0,reversible defect,disease_present
+64.0,male,non-anginal pain,140.0,335.0,False,normal,158.0,no,0.0,upsloping,0.0,normal,disease_present
+59.0,male,asymptomatic,135.0,234.0,False,normal,161.0,no,0.5,flat,0.0,reversible defect,no_disease
+44.0,male,non-anginal pain,130.0,233.0,False,normal,179.0,yes,0.4,upsloping,0.0,normal,no_disease
+42.0,male,asymptomatic,140.0,226.0,False,normal,178.0,no,0.0,upsloping,0.0,normal,no_disease
+43.0,male,asymptomatic,120.0,177.0,False,left ventricular hypertrophy (Estes),120.0,yes,2.5,flat,0.0,reversible defect,disease_present
+57.0,male,asymptomatic,150.0,276.0,False,left ventricular hypertrophy (Estes),112.0,yes,0.6,flat,1.0,fixed defect,disease_present
+55.0,male,asymptomatic,132.0,353.0,False,normal,132.0,yes,1.2,flat,1.0,reversible defect,disease_present
+61.0,male,non-anginal pain,150.0,243.0,True,normal,137.0,yes,1.0,flat,0.0,normal,no_disease
+65.0,female,asymptomatic,150.0,225.0,False,left ventricular hypertrophy (Estes),114.0,no,1.0,flat,3.0,reversible defect,disease_present
+40.0,male,typical angina,140.0,199.0,False,normal,178.0,yes,1.4,upsloping,0.0,reversible defect,no_disease
+71.0,female,atypical angina,160.0,302.0,False,normal,162.0,no,0.4,upsloping,2.0,normal,no_disease
+59.0,male,non-anginal pain,150.0,212.0,True,normal,157.0,no,1.6,upsloping,0.0,normal,no_disease
+61.0,female,asymptomatic,130.0,330.0,False,left ventricular hypertrophy (Estes),169.0,no,0.0,upsloping,0.0,normal,disease_present
+58.0,male,non-anginal pain,112.0,230.0,False,left ventricular hypertrophy (Estes),165.0,no,2.5,flat,1.0,reversible defect,disease_present
+51.0,male,non-anginal pain,110.0,175.0,False,normal,123.0,no,0.6,upsloping,0.0,normal,no_disease
+50.0,male,asymptomatic,150.0,243.0,False,left ventricular hypertrophy (Estes),128.0,no,2.6,flat,0.0,reversible defect,disease_present
+65.0,female,non-anginal pain,140.0,417.0,True,left ventricular hypertrophy (Estes),157.0,no,0.8,upsloping,1.0,normal,no_disease
+53.0,male,non-anginal pain,130.0,197.0,True,left ventricular hypertrophy (Estes),152.0,no,1.2,downsloping,0.0,normal,no_disease
+41.0,female,atypical angina,105.0,198.0,False,normal,168.0,no,0.0,upsloping,1.0,normal,no_disease
+65.0,male,asymptomatic,120.0,177.0,False,normal,140.0,no,0.4,upsloping,0.0,reversible defect,no_disease
+44.0,male,asymptomatic,112.0,290.0,False,left ventricular hypertrophy (Estes),153.0,no,0.0,upsloping,1.0,normal,disease_present
+44.0,male,atypical angina,130.0,219.0,False,left ventricular hypertrophy (Estes),188.0,no,0.0,upsloping,0.0,normal,no_disease
+60.0,male,asymptomatic,130.0,253.0,False,normal,144.0,yes,1.4,upsloping,1.0,reversible defect,disease_present
+54.0,male,asymptomatic,124.0,266.0,False,left ventricular hypertrophy (Estes),109.0,yes,2.2,flat,1.0,reversible defect,disease_present
+50.0,male,non-anginal pain,140.0,233.0,False,normal,163.0,no,0.6,flat,1.0,reversible defect,disease_present
+41.0,male,asymptomatic,110.0,172.0,False,left ventricular hypertrophy (Estes),158.0,no,0.0,upsloping,0.0,reversible defect,disease_present
+54.0,male,non-anginal pain,125.0,273.0,False,left ventricular hypertrophy (Estes),152.0,no,0.5,downsloping,1.0,normal,no_disease
+51.0,male,typical angina,125.0,213.0,False,left ventricular hypertrophy (Estes),125.0,yes,1.4,upsloping,1.0,normal,no_disease
+51.0,female,asymptomatic,130.0,305.0,False,normal,142.0,yes,1.2,flat,0.0,reversible defect,disease_present
+46.0,female,non-anginal pain,142.0,177.0,False,left ventricular hypertrophy (Estes),160.0,yes,1.4,downsloping,0.0,normal,no_disease
+58.0,male,asymptomatic,128.0,216.0,False,left ventricular hypertrophy (Estes),131.0,yes,2.2,flat,3.0,reversible defect,disease_present
+54.0,female,non-anginal pain,135.0,304.0,True,normal,170.0,no,0.0,upsloping,0.0,normal,no_disease
+54.0,male,asymptomatic,120.0,188.0,False,normal,113.0,no,1.4,flat,1.0,reversible defect,disease_present
+60.0,male,asymptomatic,145.0,282.0,False,left ventricular hypertrophy (Estes),142.0,yes,2.8,flat,2.0,reversible defect,disease_present
+60.0,male,non-anginal pain,140.0,185.0,False,left ventricular hypertrophy (Estes),155.0,no,3.0,flat,0.0,normal,disease_present
+54.0,male,non-anginal pain,150.0,232.0,False,left ventricular hypertrophy (Estes),165.0,no,1.6,upsloping,0.0,reversible defect,no_disease
+59.0,male,asymptomatic,170.0,326.0,False,left ventricular hypertrophy (Estes),140.0,yes,3.4,downsloping,0.0,reversible defect,disease_present
+46.0,male,non-anginal pain,150.0,231.0,False,normal,147.0,no,3.6,flat,0.0,normal,disease_present
+65.0,female,non-anginal pain,155.0,269.0,False,normal,148.0,no,0.8,upsloping,0.0,normal,no_disease
+67.0,male,asymptomatic,125.0,254.0,True,normal,163.0,no,0.2,flat,2.0,reversible defect,disease_present
+62.0,male,asymptomatic,120.0,267.0,False,normal,99.0,yes,1.8,flat,2.0,reversible defect,disease_present
+65.0,male,asymptomatic,110.0,248.0,False,left ventricular hypertrophy (Estes),158.0,no,0.6,upsloping,2.0,fixed defect,disease_present
+44.0,male,asymptomatic,110.0,197.0,False,left ventricular hypertrophy (Estes),177.0,no,0.0,upsloping,1.0,normal,disease_present
+65.0,female,non-anginal pain,160.0,360.0,False,left ventricular hypertrophy (Estes),151.0,no,0.8,upsloping,0.0,normal,no_disease
+60.0,male,asymptomatic,125.0,258.0,False,left ventricular hypertrophy (Estes),141.0,yes,2.8,flat,1.0,reversible defect,disease_present
+51.0,female,non-anginal pain,140.0,308.0,False,left ventricular hypertrophy (Estes),142.0,no,1.5,upsloping,1.0,normal,no_disease
+48.0,male,atypical angina,130.0,245.0,False,left ventricular hypertrophy (Estes),180.0,no,0.2,flat,0.0,normal,no_disease
+58.0,male,asymptomatic,150.0,270.0,False,left ventricular hypertrophy (Estes),111.0,yes,0.8,upsloping,0.0,reversible defect,disease_present
+45.0,male,asymptomatic,104.0,208.0,False,left ventricular hypertrophy (Estes),148.0,yes,3.0,flat,0.0,normal,no_disease
+53.0,female,asymptomatic,130.0,264.0,False,left ventricular hypertrophy (Estes),143.0,no,0.4,flat,0.0,normal,no_disease
+39.0,male,non-anginal pain,140.0,321.0,False,left ventricular hypertrophy (Estes),182.0,no,0.0,upsloping,0.0,normal,no_disease
+68.0,male,non-anginal pain,180.0,274.0,True,left ventricular hypertrophy (Estes),150.0,yes,1.6,flat,0.0,reversible defect,disease_present
+52.0,male,atypical angina,120.0,325.0,False,normal,172.0,no,0.2,upsloping,0.0,normal,no_disease
+44.0,male,non-anginal pain,140.0,235.0,False,left ventricular hypertrophy (Estes),180.0,no,0.0,upsloping,0.0,normal,no_disease
+47.0,male,non-anginal pain,138.0,257.0,False,left ventricular hypertrophy (Estes),156.0,no,0.0,upsloping,0.0,normal,no_disease
+53.0,female,non-anginal pain,128.0,216.0,False,left ventricular hypertrophy (Estes),115.0,no,0.0,upsloping,0.0,normal,no_disease
+53.0,female,asymptomatic,138.0,234.0,False,left ventricular hypertrophy (Estes),160.0,no,0.0,upsloping,0.0,normal,no_disease
+51.0,female,non-anginal pain,130.0,256.0,False,left ventricular hypertrophy (Estes),149.0,no,0.5,upsloping,0.0,normal,no_disease
+66.0,male,asymptomatic,120.0,302.0,False,left ventricular hypertrophy (Estes),151.0,no,0.4,flat,0.0,normal,no_disease
+62.0,female,asymptomatic,160.0,164.0,False,left ventricular hypertrophy (Estes),145.0,no,6.2,downsloping,3.0,reversible defect,disease_present
+62.0,male,non-anginal pain,130.0,231.0,False,normal,146.0,no,1.8,flat,3.0,reversible defect,no_disease
+44.0,female,non-anginal pain,108.0,141.0,False,normal,175.0,no,0.6,flat,0.0,normal,no_disease
+63.0,female,non-anginal pain,135.0,252.0,False,left ventricular hypertrophy (Estes),172.0,no,0.0,upsloping,0.0,normal,no_disease
+52.0,male,asymptomatic,128.0,255.0,False,normal,161.0,yes,0.0,upsloping,1.0,reversible defect,disease_present
+59.0,male,asymptomatic,110.0,239.0,False,left ventricular hypertrophy (Estes),142.0,yes,1.2,flat,1.0,reversible defect,disease_present
+60.0,female,asymptomatic,150.0,258.0,False,left ventricular hypertrophy (Estes),157.0,no,2.6,flat,2.0,reversible defect,disease_present
+52.0,male,atypical angina,134.0,201.0,False,normal,158.0,no,0.8,upsloping,1.0,normal,no_disease
+48.0,male,asymptomatic,122.0,222.0,False,left ventricular hypertrophy (Estes),186.0,no,0.0,upsloping,0.0,normal,no_disease
+45.0,male,asymptomatic,115.0,260.0,False,left ventricular hypertrophy (Estes),185.0,no,0.0,upsloping,0.0,normal,no_disease
+34.0,male,typical angina,118.0,182.0,False,left ventricular hypertrophy (Estes),174.0,no,0.0,upsloping,0.0,normal,no_disease
+57.0,female,asymptomatic,128.0,303.0,False,left ventricular hypertrophy (Estes),159.0,no,0.0,upsloping,1.0,normal,no_disease
+71.0,female,non-anginal pain,110.0,265.0,True,left ventricular hypertrophy (Estes),130.0,no,0.0,upsloping,1.0,normal,no_disease
+49.0,male,non-anginal pain,120.0,188.0,False,normal,139.0,no,2.0,flat,3.0,reversible defect,disease_present
+54.0,male,atypical angina,108.0,309.0,False,normal,156.0,no,0.0,upsloping,0.0,reversible defect,no_disease
+59.0,male,asymptomatic,140.0,177.0,False,normal,162.0,yes,0.0,upsloping,1.0,reversible defect,disease_present
+57.0,male,non-anginal pain,128.0,229.0,False,left ventricular hypertrophy (Estes),150.0,no,0.4,flat,1.0,reversible defect,disease_present
+61.0,male,asymptomatic,120.0,260.0,False,normal,140.0,yes,3.6,flat,1.0,reversible defect,disease_present
+39.0,male,asymptomatic,118.0,219.0,False,normal,140.0,no,1.2,flat,0.0,reversible defect,disease_present
+61.0,female,asymptomatic,145.0,307.0,False,left ventricular hypertrophy (Estes),146.0,yes,1.0,flat,0.0,reversible defect,disease_present
+56.0,male,asymptomatic,125.0,249.0,True,left ventricular hypertrophy (Estes),144.0,yes,1.2,flat,1.0,normal,disease_present
+52.0,male,typical angina,118.0,186.0,False,left ventricular hypertrophy (Estes),190.0,no,0.0,flat,0.0,fixed defect,no_disease
+43.0,female,asymptomatic,132.0,341.0,True,left ventricular hypertrophy (Estes),136.0,yes,3.0,flat,0.0,reversible defect,disease_present
+62.0,female,non-anginal pain,130.0,263.0,False,normal,97.0,no,1.2,flat,1.0,reversible defect,disease_present
+41.0,male,atypical angina,135.0,203.0,False,normal,132.0,no,0.0,flat,0.0,fixed defect,no_disease
+58.0,male,non-anginal pain,140.0,211.0,True,left ventricular hypertrophy (Estes),165.0,no,0.0,upsloping,0.0,normal,no_disease
+35.0,female,asymptomatic,138.0,183.0,False,normal,182.0,no,1.4,upsloping,0.0,normal,no_disease
+63.0,male,asymptomatic,130.0,330.0,True,left ventricular hypertrophy (Estes),132.0,yes,1.8,upsloping,3.0,reversible defect,disease_present
+65.0,male,asymptomatic,135.0,254.0,False,left ventricular hypertrophy (Estes),127.0,no,2.8,flat,1.0,reversible defect,disease_present
+48.0,male,asymptomatic,130.0,256.0,True,left ventricular hypertrophy (Estes),150.0,yes,0.0,upsloping,2.0,reversible defect,disease_present
+63.0,female,asymptomatic,150.0,407.0,False,left ventricular hypertrophy (Estes),154.0,no,4.0,flat,3.0,reversible defect,disease_present
+51.0,male,non-anginal pain,100.0,222.0,False,normal,143.0,yes,1.2,flat,0.0,normal,no_disease
+55.0,male,asymptomatic,140.0,217.0,False,normal,111.0,yes,5.6,downsloping,0.0,reversible defect,disease_present
+65.0,male,typical angina,138.0,282.0,True,left ventricular hypertrophy (Estes),174.0,no,1.4,flat,1.0,normal,disease_present
+45.0,female,atypical angina,130.0,234.0,False,left ventricular hypertrophy (Estes),175.0,no,0.6,flat,0.0,normal,no_disease
+56.0,female,asymptomatic,200.0,288.0,True,left ventricular hypertrophy (Estes),133.0,yes,4.0,downsloping,2.0,reversible defect,disease_present
+54.0,male,asymptomatic,110.0,239.0,False,normal,126.0,yes,2.8,flat,1.0,reversible defect,disease_present
+44.0,male,atypical angina,120.0,220.0,False,normal,170.0,no,0.0,upsloping,0.0,normal,no_disease
+62.0,female,asymptomatic,124.0,209.0,False,normal,163.0,no,0.0,upsloping,0.0,normal,no_disease
+54.0,male,non-anginal pain,120.0,258.0,False,left ventricular hypertrophy (Estes),147.0,no,0.4,flat,0.0,reversible defect,no_disease
+51.0,male,non-anginal pain,94.0,227.0,False,normal,154.0,yes,0.0,upsloping,1.0,reversible defect,no_disease
+29.0,male,atypical angina,130.0,204.0,False,left ventricular hypertrophy (Estes),202.0,no,0.0,upsloping,0.0,normal,no_disease
+51.0,male,asymptomatic,140.0,261.0,False,left ventricular hypertrophy (Estes),186.0,yes,0.0,upsloping,0.0,normal,no_disease
+43.0,female,non-anginal pain,122.0,213.0,False,normal,165.0,no,0.2,flat,0.0,normal,no_disease
+55.0,female,atypical angina,135.0,250.0,False,left ventricular hypertrophy (Estes),161.0,no,1.4,flat,0.0,normal,no_disease
+70.0,male,asymptomatic,145.0,174.0,False,normal,125.0,yes,2.6,downsloping,0.0,reversible defect,disease_present
+62.0,male,atypical angina,120.0,281.0,False,left ventricular hypertrophy (Estes),103.0,no,1.4,flat,1.0,reversible defect,disease_present
+35.0,male,asymptomatic,120.0,198.0,False,normal,130.0,yes,1.6,flat,0.0,reversible defect,disease_present
+51.0,male,non-anginal pain,125.0,245.0,True,left ventricular hypertrophy (Estes),166.0,no,2.4,flat,0.0,normal,no_disease
+59.0,male,atypical angina,140.0,221.0,False,normal,164.0,yes,0.0,upsloping,0.0,normal,no_disease
+59.0,male,typical angina,170.0,288.0,False,left ventricular hypertrophy (Estes),159.0,no,0.2,flat,0.0,reversible defect,disease_present
+52.0,male,atypical angina,128.0,205.0,True,normal,184.0,no,0.0,upsloping,0.0,normal,no_disease
+64.0,male,non-anginal pain,125.0,309.0,False,normal,131.0,yes,1.8,flat,0.0,reversible defect,disease_present
+58.0,male,non-anginal pain,105.0,240.0,False,left ventricular hypertrophy (Estes),154.0,yes,0.6,flat,0.0,reversible defect,no_disease
+47.0,male,non-anginal pain,108.0,243.0,False,normal,152.0,no,0.0,upsloping,0.0,normal,disease_present
+57.0,male,asymptomatic,165.0,289.0,True,left ventricular hypertrophy (Estes),124.0,no,1.0,flat,3.0,reversible defect,disease_present
+41.0,male,non-anginal pain,112.0,250.0,False,normal,179.0,no,0.0,upsloping,0.0,normal,no_disease
+45.0,male,atypical angina,128.0,308.0,False,left ventricular hypertrophy (Estes),170.0,no,0.0,upsloping,0.0,normal,no_disease
+60.0,female,non-anginal pain,102.0,318.0,False,normal,160.0,no,0.0,upsloping,1.0,normal,no_disease
+52.0,male,typical angina,152.0,298.0,True,normal,178.0,no,1.2,flat,0.0,reversible defect,no_disease
+42.0,female,asymptomatic,102.0,265.0,False,left ventricular hypertrophy (Estes),122.0,no,0.6,flat,0.0,normal,no_disease
+67.0,female,non-anginal pain,115.0,564.0,False,left ventricular hypertrophy (Estes),160.0,no,1.6,flat,0.0,reversible defect,no_disease
+55.0,male,asymptomatic,160.0,289.0,False,left ventricular hypertrophy (Estes),145.0,yes,0.8,flat,1.0,reversible defect,disease_present
+64.0,male,asymptomatic,120.0,246.0,False,left ventricular hypertrophy (Estes),96.0,yes,2.2,downsloping,1.0,normal,disease_present
+70.0,male,asymptomatic,130.0,322.0,False,left ventricular hypertrophy (Estes),109.0,no,2.4,flat,3.0,normal,disease_present
+51.0,male,asymptomatic,140.0,299.0,False,normal,173.0,yes,1.6,upsloping,0.0,reversible defect,disease_present
+58.0,male,asymptomatic,125.0,300.0,False,left ventricular hypertrophy (Estes),171.0,no,0.0,upsloping,2.0,reversible defect,disease_present
+60.0,male,asymptomatic,140.0,293.0,False,left ventricular hypertrophy (Estes),170.0,no,1.2,flat,2.0,reversible defect,disease_present
+68.0,male,non-anginal pain,118.0,277.0,False,normal,151.0,no,1.0,upsloping,1.0,reversible defect,no_disease
+46.0,male,atypical angina,101.0,197.0,True,normal,156.0,no,0.0,upsloping,0.0,reversible defect,no_disease
+77.0,male,asymptomatic,125.0,304.0,False,left ventricular hypertrophy (Estes),162.0,yes,0.0,upsloping,3.0,normal,disease_present
+54.0,female,non-anginal pain,110.0,214.0,False,normal,158.0,no,1.6,flat,0.0,normal,no_disease
+58.0,female,asymptomatic,100.0,248.0,False,left ventricular hypertrophy (Estes),122.0,no,1.0,flat,0.0,normal,no_disease
+48.0,male,non-anginal pain,124.0,255.0,True,normal,175.0,no,0.0,upsloping,2.0,normal,no_disease
+57.0,male,asymptomatic,132.0,207.0,False,normal,168.0,yes,0.0,upsloping,0.0,reversible defect,no_disease
+52.0,male,non-anginal pain,138.0,223.0,False,normal,169.0,no,0.0,upsloping,0.0,normal,no_disease
+54.0,female,atypical angina,132.0,288.0,True,left ventricular hypertrophy (Estes),159.0,yes,0.0,upsloping,1.0,normal,no_disease
+35.0,male,asymptomatic,126.0,282.0,False,left ventricular hypertrophy (Estes),156.0,yes,0.0,upsloping,0.0,reversible defect,disease_present
+45.0,female,atypical angina,112.0,160.0,False,normal,138.0,no,0.0,flat,0.0,normal,no_disease
+70.0,male,non-anginal pain,160.0,269.0,False,normal,112.0,yes,2.9,flat,1.0,reversible defect,disease_present
+53.0,male,asymptomatic,142.0,226.0,False,left ventricular hypertrophy (Estes),111.0,yes,0.0,upsloping,0.0,reversible defect,no_disease
+59.0,female,asymptomatic,174.0,249.0,False,normal,143.0,yes,0.0,flat,0.0,normal,disease_present
+62.0,female,asymptomatic,140.0,394.0,False,left ventricular hypertrophy (Estes),157.0,no,1.2,flat,0.0,normal,no_disease
+64.0,male,asymptomatic,145.0,212.0,False,left ventricular hypertrophy (Estes),132.0,no,2.0,flat,2.0,fixed defect,disease_present
+57.0,male,asymptomatic,152.0,274.0,False,normal,88.0,yes,1.2,flat,1.0,reversible defect,disease_present
+52.0,male,asymptomatic,108.0,233.0,True,normal,147.0,no,0.1,upsloping,3.0,reversible defect,no_disease
+56.0,male,asymptomatic,132.0,184.0,False,left ventricular hypertrophy (Estes),105.0,yes,2.1,flat,1.0,fixed defect,disease_present
+43.0,male,non-anginal pain,130.0,315.0,False,normal,162.0,no,1.9,upsloping,1.0,normal,no_disease
+53.0,male,non-anginal pain,130.0,246.0,True,left ventricular hypertrophy (Estes),173.0,no,0.0,upsloping,3.0,normal,no_disease
+48.0,male,asymptomatic,124.0,274.0,False,left ventricular hypertrophy (Estes),166.0,no,0.5,flat,0.0,reversible defect,disease_present
+56.0,female,asymptomatic,134.0,409.0,False,left ventricular hypertrophy (Estes),150.0,yes,1.9,flat,2.0,reversible defect,disease_present
+42.0,male,typical angina,148.0,244.0,False,left ventricular hypertrophy (Estes),178.0,no,0.8,upsloping,2.0,normal,no_disease
+59.0,male,typical angina,178.0,270.0,False,left ventricular hypertrophy (Estes),145.0,no,4.2,downsloping,0.0,reversible defect,no_disease
+60.0,female,asymptomatic,158.0,305.0,False,left ventricular hypertrophy (Estes),161.0,no,0.0,upsloping,0.0,normal,disease_present
+63.0,female,atypical angina,140.0,195.0,False,normal,179.0,no,0.0,upsloping,2.0,normal,no_disease
+42.0,male,non-anginal pain,120.0,240.0,True,normal,194.0,no,0.8,downsloping,0.0,reversible defect,no_disease
+66.0,male,atypical angina,160.0,246.0,False,normal,120.0,yes,0.0,flat,3.0,fixed defect,disease_present
+54.0,male,atypical angina,192.0,283.0,False,left ventricular hypertrophy (Estes),195.0,no,0.0,upsloping,1.0,reversible defect,disease_present
+69.0,male,non-anginal pain,140.0,254.0,False,left ventricular hypertrophy (Estes),146.0,no,2.0,flat,3.0,reversible defect,disease_present
+50.0,male,non-anginal pain,129.0,196.0,False,normal,163.0,no,0.0,upsloping,0.0,normal,no_disease
+51.0,male,asymptomatic,140.0,298.0,False,normal,122.0,yes,4.2,flat,3.0,reversible defect,disease_present
+43.0,male,asymptomatic,132.0,247.0,True,left ventricular hypertrophy (Estes),143.0,yes,0.1,flat,0.0,reversible defect,disease_present
+62.0,female,asymptomatic,138.0,294.0,True,normal,106.0,no,1.9,flat,3.0,normal,disease_present
+68.0,female,non-anginal pain,120.0,211.0,False,left ventricular hypertrophy (Estes),115.0,no,1.5,flat,0.0,normal,no_disease
+67.0,male,asymptomatic,100.0,299.0,False,left ventricular hypertrophy (Estes),125.0,yes,0.9,flat,2.0,normal,disease_present
+69.0,male,typical angina,160.0,234.0,True,left ventricular hypertrophy (Estes),131.0,no,0.1,flat,1.0,normal,no_disease
+45.0,female,asymptomatic,138.0,236.0,False,left ventricular hypertrophy (Estes),152.0,yes,0.2,flat,0.0,normal,no_disease
+50.0,female,atypical angina,120.0,244.0,False,normal,162.0,no,1.1,upsloping,0.0,normal,no_disease
+59.0,male,typical angina,160.0,273.0,False,left ventricular hypertrophy (Estes),125.0,no,0.0,upsloping,0.0,normal,disease_present
+50.0,female,asymptomatic,110.0,254.0,False,left ventricular hypertrophy (Estes),159.0,no,0.0,upsloping,0.0,normal,no_disease
+64.0,female,asymptomatic,180.0,325.0,False,normal,154.0,yes,0.0,upsloping,0.0,normal,no_disease
+57.0,male,non-anginal pain,150.0,126.0,True,normal,173.0,no,0.2,upsloping,1.0,reversible defect,no_disease
+64.0,female,non-anginal pain,140.0,313.0,False,normal,133.0,no,0.2,upsloping,0.0,reversible defect,no_disease
+43.0,male,asymptomatic,110.0,211.0,False,normal,161.0,no,0.0,upsloping,0.0,reversible defect,no_disease
+45.0,male,asymptomatic,142.0,309.0,False,left ventricular hypertrophy (Estes),147.0,yes,0.0,flat,3.0,reversible defect,disease_present
+58.0,male,asymptomatic,128.0,259.0,False,left ventricular hypertrophy (Estes),130.0,yes,3.0,flat,2.0,reversible defect,disease_present
+50.0,male,asymptomatic,144.0,200.0,False,left ventricular hypertrophy (Estes),126.0,yes,0.9,flat,0.0,reversible defect,disease_present
+55.0,male,atypical angina,130.0,262.0,False,normal,155.0,no,0.0,upsloping,0.0,normal,no_disease
+62.0,female,asymptomatic,150.0,244.0,False,normal,154.0,yes,1.4,flat,0.0,normal,disease_present
+37.0,female,non-anginal pain,120.0,215.0,False,normal,170.0,no,0.0,upsloping,0.0,normal,no_disease
+38.0,male,typical angina,120.0,231.0,False,normal,182.0,yes,3.8,flat,0.0,reversible defect,disease_present
+41.0,male,non-anginal pain,130.0,214.0,False,left ventricular hypertrophy (Estes),168.0,no,2.0,flat,0.0,normal,no_disease
+66.0,female,asymptomatic,178.0,228.0,True,normal,165.0,yes,1.0,flat,2.0,reversible defect,disease_present
+52.0,male,asymptomatic,112.0,230.0,False,normal,160.0,no,0.0,upsloping,1.0,normal,disease_present
+56.0,male,typical angina,120.0,193.0,False,left ventricular hypertrophy (Estes),162.0,no,1.9,flat,0.0,reversible defect,no_disease
+46.0,female,atypical angina,105.0,204.0,False,normal,172.0,no,0.0,upsloping,0.0,normal,no_disease
+46.0,female,asymptomatic,138.0,243.0,False,left ventricular hypertrophy (Estes),152.0,yes,0.0,flat,0.0,normal,no_disease
+64.0,female,asymptomatic,130.0,303.0,False,normal,122.0,no,2.0,flat,2.0,normal,no_disease
+59.0,male,asymptomatic,138.0,271.0,False,left ventricular hypertrophy (Estes),182.0,no,0.0,upsloping,0.0,normal,no_disease
+41.0,female,non-anginal pain,112.0,268.0,False,left ventricular hypertrophy (Estes),172.0,yes,0.0,upsloping,0.0,normal,no_disease
+54.0,female,non-anginal pain,108.0,267.0,False,left ventricular hypertrophy (Estes),167.0,no,0.0,upsloping,0.0,normal,no_disease
+39.0,female,non-anginal pain,94.0,199.0,False,normal,179.0,no,0.0,upsloping,0.0,normal,no_disease
+53.0,male,asymptomatic,123.0,282.0,False,normal,95.0,yes,2.0,flat,2.0,reversible defect,disease_present
+63.0,female,asymptomatic,108.0,269.0,False,normal,169.0,yes,1.8,flat,2.0,normal,disease_present
+34.0,female,atypical angina,118.0,210.0,False,normal,192.0,no,0.7,upsloping,0.0,normal,no_disease
+47.0,male,asymptomatic,112.0,204.0,False,normal,143.0,no,0.1,upsloping,0.0,normal,no_disease
+67.0,female,non-anginal pain,152.0,277.0,False,normal,172.0,no,0.0,upsloping,1.0,normal,no_disease
+54.0,male,asymptomatic,110.0,206.0,False,left ventricular hypertrophy (Estes),108.0,yes,0.0,flat,1.0,normal,disease_present
+66.0,male,asymptomatic,112.0,212.0,False,left ventricular hypertrophy (Estes),132.0,yes,0.1,upsloping,1.0,normal,disease_present
+52.0,female,non-anginal pain,136.0,196.0,False,left ventricular hypertrophy (Estes),169.0,no,0.1,flat,0.0,normal,no_disease
+55.0,female,asymptomatic,180.0,327.0,False,ST-T wave abnormality,117.0,yes,3.4,flat,0.0,normal,disease_present
+49.0,male,non-anginal pain,118.0,149.0,False,left ventricular hypertrophy (Estes),126.0,no,0.8,upsloping,3.0,normal,disease_present
+74.0,female,atypical angina,120.0,269.0,False,left ventricular hypertrophy (Estes),121.0,yes,0.2,upsloping,1.0,normal,no_disease
+54.0,female,non-anginal pain,160.0,201.0,False,normal,163.0,no,0.0,upsloping,1.0,normal,no_disease
+54.0,male,asymptomatic,122.0,286.0,False,left ventricular hypertrophy (Estes),116.0,yes,3.2,flat,2.0,normal,disease_present
+56.0,male,asymptomatic,130.0,283.0,True,left ventricular hypertrophy (Estes),103.0,yes,1.6,downsloping,0.0,reversible defect,disease_present
+46.0,male,asymptomatic,120.0,249.0,False,left ventricular hypertrophy (Estes),144.0,no,0.8,upsloping,0.0,reversible defect,disease_present
+49.0,female,atypical angina,134.0,271.0,False,normal,162.0,no,0.0,flat,0.0,normal,no_disease
+42.0,male,atypical angina,120.0,295.0,False,normal,162.0,no,0.0,upsloping,0.0,normal,no_disease
+41.0,male,atypical angina,110.0,235.0,False,normal,153.0,no,0.0,upsloping,0.0,normal,no_disease
+41.0,female,atypical angina,126.0,306.0,False,normal,163.0,no,0.0,upsloping,0.0,normal,no_disease
+49.0,female,asymptomatic,130.0,269.0,False,normal,163.0,no,0.0,upsloping,0.0,normal,no_disease
+61.0,male,typical angina,134.0,234.0,False,normal,145.0,no,2.6,flat,2.0,normal,disease_present
+60.0,female,non-anginal pain,120.0,178.0,True,normal,96.0,no,0.0,upsloping,0.0,normal,no_disease
+67.0,male,asymptomatic,120.0,237.0,False,normal,71.0,no,1.0,flat,0.0,normal,disease_present
+58.0,male,asymptomatic,100.0,234.0,False,normal,156.0,no,0.1,upsloping,1.0,reversible defect,disease_present
+47.0,male,asymptomatic,110.0,275.0,False,left ventricular hypertrophy (Estes),118.0,yes,1.0,flat,1.0,normal,disease_present
+52.0,male,asymptomatic,125.0,212.0,False,normal,168.0,no,1.0,upsloping,2.0,reversible defect,disease_present
+62.0,male,atypical angina,128.0,208.0,True,left ventricular hypertrophy (Estes),140.0,no,0.0,upsloping,0.0,normal,no_disease
+57.0,male,asymptomatic,110.0,201.0,False,normal,126.0,yes,1.5,flat,0.0,fixed defect,no_disease
+58.0,male,asymptomatic,146.0,218.0,False,normal,105.0,no,2.0,flat,1.0,reversible defect,disease_present
+64.0,male,asymptomatic,128.0,263.0,False,normal,105.0,yes,0.2,flat,1.0,reversible defect,no_disease
+51.0,female,non-anginal pain,120.0,295.0,False,left ventricular hypertrophy (Estes),157.0,no,0.6,upsloping,0.0,normal,no_disease
+43.0,male,asymptomatic,115.0,303.0,False,normal,181.0,no,1.2,flat,0.0,normal,no_disease
+42.0,female,non-anginal pain,120.0,209.0,False,normal,173.0,no,0.0,flat,0.0,normal,no_disease
+67.0,female,asymptomatic,106.0,223.0,False,normal,142.0,no,0.3,upsloping,2.0,normal,no_disease
+76.0,female,non-anginal pain,140.0,197.0,False,ST-T wave abnormality,116.0,no,1.1,flat,0.0,normal,no_disease
+70.0,male,atypical angina,156.0,245.0,False,left ventricular hypertrophy (Estes),143.0,no,0.0,upsloping,0.0,normal,no_disease
+57.0,male,atypical angina,124.0,261.0,False,normal,141.0,no,0.3,upsloping,0.0,reversible defect,disease_present
+44.0,female,non-anginal pain,118.0,242.0,False,normal,149.0,no,0.3,flat,1.0,normal,no_disease
+58.0,female,atypical angina,136.0,319.0,True,left ventricular hypertrophy (Estes),152.0,no,0.0,upsloping,2.0,normal,disease_present
+60.0,female,typical angina,150.0,240.0,False,normal,171.0,no,0.9,upsloping,0.0,normal,no_disease
+44.0,male,non-anginal pain,120.0,226.0,False,normal,169.0,no,0.0,upsloping,0.0,normal,no_disease
+61.0,male,asymptomatic,138.0,166.0,False,left ventricular hypertrophy (Estes),125.0,yes,3.6,flat,1.0,normal,disease_present
+42.0,male,asymptomatic,136.0,315.0,False,normal,125.0,yes,1.8,flat,0.0,fixed defect,disease_present
+52.0,male,asymptomatic,128.0,204.0,True,normal,156.0,yes,1.0,flat,0.0,normal,disease_present
+59.0,male,non-anginal pain,126.0,218.0,True,normal,134.0,no,2.2,flat,1.0,fixed defect,disease_present
+40.0,male,asymptomatic,152.0,223.0,False,normal,181.0,no,0.0,upsloping,0.0,reversible defect,disease_present
+42.0,male,non-anginal pain,130.0,180.0,False,normal,150.0,no,0.0,upsloping,0.0,normal,no_disease
+61.0,male,asymptomatic,140.0,207.0,False,left ventricular hypertrophy (Estes),138.0,yes,1.9,upsloping,1.0,reversible defect,disease_present
+66.0,male,asymptomatic,160.0,228.0,False,left ventricular hypertrophy (Estes),138.0,no,2.3,upsloping,0.0,fixed defect,no_disease
+46.0,male,asymptomatic,140.0,311.0,False,normal,120.0,yes,1.8,flat,2.0,reversible defect,disease_present
+71.0,female,asymptomatic,112.0,149.0,False,normal,125.0,no,1.6,flat,0.0,normal,no_disease
+59.0,male,typical angina,134.0,204.0,False,normal,162.0,no,0.8,upsloping,2.0,normal,disease_present
+64.0,male,typical angina,170.0,227.0,False,left ventricular hypertrophy (Estes),155.0,no,0.6,flat,0.0,reversible defect,no_disease
+66.0,female,non-anginal pain,146.0,278.0,False,left ventricular hypertrophy (Estes),152.0,no,0.0,flat,1.0,normal,no_disease
+39.0,female,non-anginal pain,138.0,220.0,False,normal,152.0,no,0.0,flat,0.0,normal,no_disease
+57.0,male,atypical angina,154.0,232.0,False,left ventricular hypertrophy (Estes),164.0,no,0.0,upsloping,1.0,normal,disease_present
+58.0,female,asymptomatic,130.0,197.0,False,normal,131.0,no,0.6,flat,0.0,normal,no_disease
+57.0,male,asymptomatic,110.0,335.0,False,normal,143.0,yes,3.0,flat,1.0,reversible defect,disease_present
+47.0,male,non-anginal pain,130.0,253.0,False,normal,179.0,no,0.0,upsloping,0.0,normal,no_disease
+55.0,female,asymptomatic,128.0,205.0,False,ST-T wave abnormality,130.0,yes,2.0,flat,1.0,reversible defect,disease_present
+35.0,male,atypical angina,122.0,192.0,False,normal,174.0,no,0.0,upsloping,0.0,normal,no_disease
+61.0,male,asymptomatic,148.0,203.0,False,normal,161.0,no,0.0,upsloping,1.0,reversible defect,disease_present
+58.0,male,asymptomatic,114.0,318.0,False,ST-T wave abnormality,140.0,no,4.4,downsloping,3.0,fixed defect,disease_present
+58.0,female,asymptomatic,170.0,225.0,True,left ventricular hypertrophy (Estes),146.0,yes,2.8,flat,2.0,fixed defect,disease_present
+58.0,male,atypical angina,125.0,220.0,False,normal,144.0,no,0.4,flat,0.0,reversible defect,no_disease
+56.0,male,atypical angina,130.0,221.0,False,left ventricular hypertrophy (Estes),163.0,no,0.0,upsloping,0.0,reversible defect,no_disease
+56.0,male,atypical angina,120.0,240.0,False,normal,169.0,no,0.0,downsloping,0.0,normal,no_disease
+67.0,male,non-anginal pain,152.0,212.0,False,left ventricular hypertrophy (Estes),150.0,no,0.8,flat,0.0,reversible defect,disease_present
+55.0,female,atypical angina,132.0,342.0,False,normal,166.0,no,1.2,upsloping,0.0,normal,no_disease
+44.0,male,asymptomatic,120.0,169.0,False,normal,144.0,yes,2.8,downsloping,0.0,fixed defect,disease_present
+63.0,male,asymptomatic,140.0,187.0,False,left ventricular hypertrophy (Estes),144.0,yes,4.0,upsloping,2.0,reversible defect,disease_present
+63.0,female,asymptomatic,124.0,197.0,False,normal,136.0,yes,0.0,flat,0.0,normal,disease_present
+41.0,male,atypical angina,120.0,157.0,False,normal,182.0,no,0.0,upsloping,0.0,normal,no_disease
+59.0,male,asymptomatic,164.0,176.0,True,left ventricular hypertrophy (Estes),90.0,no,1.0,flat,2.0,fixed defect,disease_present
+57.0,female,asymptomatic,140.0,241.0,False,normal,123.0,yes,0.2,flat,0.0,reversible defect,disease_present
+45.0,male,typical angina,110.0,264.0,False,normal,132.0,no,1.2,flat,0.0,reversible defect,disease_present
+68.0,male,asymptomatic,144.0,193.0,True,normal,141.0,no,3.4,flat,2.0,reversible defect,disease_present
+57.0,male,asymptomatic,130.0,131.0,False,normal,115.0,yes,1.2,flat,1.0,reversible defect,disease_present
+57.0,female,atypical angina,130.0,236.0,False,left ventricular hypertrophy (Estes),174.0,no,0.0,flat,1.0,normal,disease_present
+38.0,male,non-anginal pain,138.0,175.0,False,normal,173.0,no,0.0,upsloping,0.0,normal,no_disease

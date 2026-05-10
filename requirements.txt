@@ -1,0 +1,5 @@
+pandas
+numpy
+scikit-learn
+langchain-core
+langchain-ollama
